@@ -1,9 +1,13 @@
 #AtliQ Hardware Sales Performance Analysis Dashboard
+
 ##Problem Statement:
 AtliQ Hardware, a computer hardware and peripheral distributor with branches across India, faced challenges in understanding its sales performance. The sales director struggled to gain a clear picture of business health and identify underlying issues contributing to declining sales. Relying on regional managers for updates proved inefficient, as they were often uncomfortable interpreting raw data from spreadsheets. This lack of clear, readily digestible information hindered effective decision-making.
+
 ##Solution:
 To address these challenges, AtliQ Hardware commissioned the development of a Power BI dashboard to visualize sales data and facilitate data-driven decisions. A team of data professionals was tasked with creating this solution.
+
 ##Project Methodology:
+
 ###The project followed these key steps:
 1.	Project Planning: Utilized the AIMS grid for project planning.
 2.	Data Extraction: Retrieved data from the MySQL database using appropriate queries.
@@ -13,8 +17,9 @@ To address these challenges, AtliQ Hardware commissioned the development of a Po
 6.	Currency Conversion: Standardized currency data by converting all transactions to a single currency.
 7.	Data Validation: Ensured data accuracy and consistency.
 8.	Data Modeling and Visualization: Created a robust data model and developed insightful visualizations in Power BI.
+
 ##Key Insights:
-The Power BI dashboard revealed several key insights into AtliQ Hardware's sales performance:
+###The Power BI dashboard revealed several key insights into AtliQ Hardware's sales performance:
 •	Overall Performance (4 Years): 
 o	Total Revenue: ₹985M
 o	Total Profit Margin: ₹24.66M
