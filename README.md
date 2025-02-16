@@ -1,5 +1,4 @@
 #AtliQ Hardware Sales Performance Analysis Dashboard
-
 ##Problem Statement:
 AtliQ Hardware, a computer hardware and peripheral distributor with branches across India, faced challenges in understanding its sales performance. The sales director struggled to gain a clear picture of business health and identify underlying issues contributing to declining sales. Relying on regional managers for updates proved inefficient, as they were often uncomfortable interpreting raw data from spreadsheets. This lack of clear, readily digestible information hindered effective decision-making.
 
