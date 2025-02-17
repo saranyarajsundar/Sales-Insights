@@ -23,7 +23,7 @@ The project followed these key steps:
 5.  **Measure Creation:** Developed DAX measures to support analysis and visualization.
 6.  **Currency Conversion:** Standardized currency data by converting all transactions to a single currency.
 7.  **Data Validation:** Ensured data accuracy and consistency.
-8.  **Data Modeling and Visualization:** Created a robust data model and developed insightful visualizations in Power BI.
+8.  **Data Modeling and Visualization:** Created a robust data model and developed insightful visualizations in Power BI.<a href="https://github.com/saranyarajsundar/Sales-Insights/blob/main/Data%20Model.png">View Data Model</a>
 
 ## Key Insights
 
@@ -33,23 +33,23 @@ The Power BI dashboard revealed several key insights into AtliQ Hardware's sales
     *   Total Revenue: ₹985M
     *   Total Profit Margin: ₹24.66M
     *   Profit Margin Percentage: 2.5%
-    *   Sales Quantity: 2M
+    *   Sales Quantity: 2M 
 *   **2020 Performance:**
     *   Total Revenue: ₹142M
     *   Sales Quantity: 350K
-    *   Profit: ₹2.1M
+    *   Profit: ₹2.1M <a href="https://github.com/saranyarajsundar/Sales-Insights/blob/main/Sales%20Insights%20-%20page%20KPI.png">View Dashboard</a>
 *   **Market Analysis (4 Years):**
     *   **Revenue:** Delhi NCR emerged as the largest market, contributing ₹520M (52.8% of total revenue). However, its profit margin was relatively low at 2.3%.
     *   **Profit Margin:** Bhubaneshwar demonstrated the highest profit margin in 2020 at 10.5%.
     *   **Profit Contribution:** Mumbai led in profit contribution with 23.89% of the total profit.
-    *   **Lowest Performance:** Bengaluru exhibited the lowest profit margin (-20.8%) and a negative profit contribution (-0.3%).
+    *   **Lowest Performance:** Bengaluru exhibited the lowest profit margin (-20.8%) and a negative profit contribution (-0.3%).<a href="https://github.com/saranyarajsundar/Sales-Insights/blob/main/Sales%20Insights-Page%20Profit%20Analysis.png">View Dashboard</a>
 *   **Customer Analysis (4 Years):**
     *   Top Customer: Electricalsara Stores generated the highest revenue at ₹413M.
 *   **Product Analysis (4 Years):**
     *   Top Product: Prod318 generated the highest revenue at ₹69M.
 *   **Product Type Analysis (4 Years):**
     *   Distribution and Ownbrand product types each generated ₹494M in revenue.
-*   **Revenue Trend:** June 2020 witnessed a significant decline in revenue compared to the previous year. April 2020 recorded the lowest profit margin.
+*   **Revenue Trend:** June 2020 witnessed a significant decline in revenue compared to the previous year. April 2020 recorded the lowest profit margin.<a href="https://github.com/saranyarajsundar/Sales-Insights/blob/main/Sales%20Insights%20-%20page%20KPI.png">View Dashboard</a>
 
 ## Key Learnings
 
